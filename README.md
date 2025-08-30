@@ -5,6 +5,8 @@ Electric heater controller 2025 - For hot-cold water tap - ESP32 based with dual
 
 ##### Monitoring screen using Virtuino App:
 - - Connection via Bluetooth
+ 
+
 ![img](https://raw.githubusercontent.com/rtek1000/EHC2025/refs/heads/main/Virtuino/Virtuino_screen.jpg)
 
 >   (Source: Google IA)
