@@ -9,6 +9,11 @@ Electric heater controller 2025 - For hot-cold water tap - ESP32 based with dual
 
 ![img](https://raw.githubusercontent.com/rtek1000/EHC2025/refs/heads/main/Virtuino/Virtuino_screen.jpg)
 
+##### Auxiliary projects:
+- [Water Flow Meter Hot Cold](https://github.com/rtek1000/Water_Flow_Meter_Hot_Cold)
+- [ESP32 AC Dimmer](https://github.com/rtek1000/ESP32_AC_Dimmer)
+- [YF-S201 emulator](https://github.com/rtek1000/YF-S201_emulator)
+
 ##### Operational core:
 
 >   (Source: Google IA)
