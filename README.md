@@ -9,6 +9,8 @@ Electric heater controller 2025 - For hot-cold water tap - ESP32 based with dual
 
 ![img](https://raw.githubusercontent.com/rtek1000/EHC2025/refs/heads/main/Virtuino/Virtuino_screen.jpg)
 
+##### Operational core:
+
 >   (Source: Google IA)
 > 	To calculate the shower water outlet temperature,
 > 	you need to consider the heater power,
